@@ -1,0 +1,97 @@
+*{
+	padding: 0;
+	margin: 0 ;
+
+}
+
+.main-section{
+	background-image: url("/assets/img/Header\ Image.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: -26px;	
+}
+.about-info li {
+	display: inline-block;
+	color: green;
+	padding: 15px;
+	margin-left: 20px;
+	font-size: 20px;
+	font-weight: bold;
+}
+.about-info li a{
+	color: green;
+	text-decoration: dotted;
+}
+
+
+.register li{
+	list-style: none;
+		display: inline-block;
+	color: green;
+	padding: 10px;
+	margin-left: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	background: greenyellow;
+
+
+}
+.register li a{
+
+color: green;
+text-decoration: dotted;
+
+
+}
+
+.main-text{
+	text-align: center;
+	margin-top: 300px;
+}
+.main-text li{
+	list-style: none;
+	color: antiquewhite;
+	padding-bottom: 10px;
+	
+}
+.main-text .f1{
+	font-size: 30px;
+	font-weight: bold;
+}
+.main-text .f2{
+	font-size: 60px;
+	font-weight: bold;
+}
+ .main-text .f4{
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 50px;
+ }
+ .h-center{
+	text-align: center;
+ }
+ .third-section{
+	background-color: rgb(52, 119, 98);
+ }
+ .h-center{
+	color: aliceblue;
+ }
+ .t-p{
+	color: white;
+ }
+ .about-info{
+	color: aliceblue;
+	text-align: center;
+ }
+ .view-info .h-final{
+	color: white;
+	display: inline-block;
+	padding: 10px;
+	border: 2px solid white;
+	margin-bottom: 70px;
+ }
+.h-final a{
+color: white;
+ text-decoration: none;
+
+}
